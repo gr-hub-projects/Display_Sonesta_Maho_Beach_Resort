@@ -1,32 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "4583055",
-        "Flight": "DL1886",
-        "PickupDate": "2026-01-12",
-        "PickupTime": "13:00",
-        "HotelName": "Sonesta Maho Beach Resort and Casino",
-        "HotelNumber": 9865
-      },
-      {
-        "id": "4583032",
-        "Flight": "DL1886",
-        "PickupDate": "2026-01-12",
-        "PickupTime": "13:00",
-        "HotelName": "Sonesta Maho Beach Resort and Casino",
-        "HotelNumber": 9865
-      },
-      {
-        "id": "N524DL",
-        "Flight": "WS2543",
-        "PickupDate": "2026-01-09",
-        "PickupTime": "14:55",
-        "HotelName": "Sonesta Maho Beach Resort and Casino",
-        "HotelNumber": 9865
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
