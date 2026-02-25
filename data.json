@@ -1,7 +1,16 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "4646194",
+        "Flight": "AA1876",
+        "PickupDate": "2026-02-25",
+        "PickupTime": "14:00",
+        "HotelName": "Sonesta Maho Beach Resort and Casino",
+        "HotelNumber": 9865
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
